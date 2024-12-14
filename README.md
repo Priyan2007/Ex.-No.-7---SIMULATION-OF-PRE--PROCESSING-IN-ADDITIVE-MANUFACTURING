@@ -47,6 +47,16 @@
 ![image](https://github.com/user-attachments/assets/65debbc1-bf66-4012-886a-f04be27a1664)
 
 
+## Output:
+![image](https://github.com/user-attachments/assets/fb2d8ef3-9322-43d8-939c-652db20bdfae)
+![image](https://github.com/user-attachments/assets/0578fcb9-cccb-4bf6-8e7d-cbd13054b709)
+![image](https://github.com/user-attachments/assets/68ce11de-83ba-485a-9e13-68e4b8aabe38)
+![image](https://github.com/user-attachments/assets/16d8a1c1-e527-4f32-94c8-79186d16fed3)
+![image](https://github.com/user-attachments/assets/1f7d31eb-1e83-4c19-acb9-ab088f141e6a)
+![image](https://github.com/user-attachments/assets/13760caf-db77-4556-89b7-6d77dc9f1db8)
+
+
+
 
 ### Name: PRIYAN
 ### Register Number: 24000051
